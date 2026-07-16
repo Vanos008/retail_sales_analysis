@@ -40,7 +40,7 @@ Laptop, smartphone X and smart TV are high-priced products therefore making them
 Cooking pot set is priced moderately and has a moderate sales number however is the highest valued product among the household items category. 
 While Rice 5kg has the lowest price among the best five products, it is sold in high quantity and is the most expensive product in the food section category.
 
-![top 5]()
+![top 5](https://github.com/Vanos008/retail_sales_analysis/blob/c1d30c3b82b562bb8ac28cb93c54bd21d0d2edb3/Assets/top%205%20products.jpg)
 
 **Promotions application could not attribute to higher sales number:**   
 Promotions were applied in high seasons to engage customers to buy more of the targeted product category and peak sales were expected for the promoted category. Although sales increased during promotional periods, the increase closely followed expected seasonal demand patterns. No additional sales uplift attributable to the promotions was observed, while discounted prices reduced profitability.
