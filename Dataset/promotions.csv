@@ -1,0 +1,6 @@
+promotion_id,promotion_name,start_date,end_date,category,discount_percentage
+PR01,Back to School Tech Sale,2024-07-01,2024-08-31,Electronics,15
+PR02,Holiday Essentials Week,2024-12-15,2024-12-31,Food,5
+PR03,Home Refresh Campaign,2025-04-01,2025-04-30,Household Items,12
+PR04,Summer Furniture Event,2025-07-01,2025-08-15,Furniture,10
+PR05,Christmas Mega Sale,2025-11-20,2025-12-31,Electronics,20

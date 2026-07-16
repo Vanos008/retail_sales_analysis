@@ -1,0 +1,25 @@
+product_id,product_name,category,subcategory,brand,unit_cost,base_price
+P001,Rice 5kg,Food,Pantry Staples,Harvest,8.0,12.0
+P002,Milk 1L,Food,Dairy,FreshDairy,1.1,1.8
+P003,Chicken Breast,Food,Meat & Poultry,FarmChoice,5.0,8.0
+P004,Bananas 1kg,Food,Fresh Produce,FreshPick,1.2,2.2
+P005,Cola 2L,Food,Beverages,FizzCo,1.5,3.2
+P006,Bread Loaf,Food,Bakery,BakeHouse,1.0,2.0
+P007,Potato Chips,Food,Snacks,Crunchy,1.2,2.8
+P008,Frozen Pizza,Food,Frozen Foods,QuickMeal,4.0,7.0
+P009,Laptop 15in,Electronics,Computers,TechPro,550.0,899.0
+P010,Wireless Mouse,Electronics,Accessories,TechPro,10.0,24.0
+P011,Smartphone X,Electronics,Smartphones,MobileOne,250.0,499.0
+P012,Bluetooth Speaker,Electronics,Audio,SoundMax,35.0,79.0
+P013,Smart TV 55in,Electronics,Home Entertainment,Vision,320.0,699.0
+P014,Microwave Oven,Electronics,Home Appliances,HomeTech,70.0,129.0
+P015,Sofa Set,Furniture,Living Room,ComfortHome,450.0,899.0
+P016,Coffee Table,Furniture,Living Room,ComfortHome,60.0,149.0
+P017,Office Desk,Furniture,Office Furniture,WorkEase,90.0,229.0
+P018,Wardrobe,Furniture,Storage,HomeStyle,220.0,499.0
+P019,Laundry Detergent,Household Items,Laundry,CleanCo,4.0,9.0
+P020,Dishwashing Liquid,Household Items,Cleaning Supplies,CleanCo,2.0,5.0
+P021,Cooking Pot Set,Household Items,Kitchenware,KitchenMaster,25.0,59.0
+P022,Bath Towels,Household Items,Bathroom Essentials,SoftHome,6.0,18.0
+P023,Decorative Vase,Household Items,Home Decor,DecorPlus,12.0,35.0
+P024,LED Bulb Pack,Household Items,Lighting,BrightLite,4.0,12.0

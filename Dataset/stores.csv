@@ -1,0 +1,9 @@
+store_id,store_name,region_id,opening_date
+S001,Northern Horizon,N,2022-01-15
+S002,Polar Market Center,N,2022-03-01
+S003,Sunrise Retail Hub,E,2022-02-10
+S004,Coastal Trade Plaza,E,2022-05-20
+S005,Southern Harvest,S,2022-01-05
+S006,Savannah Marketplace,S,2022-04-12
+S007,Western Gateway,W,2022-02-01
+S008,Pioneer Commercial Center,W,2022-06-01
