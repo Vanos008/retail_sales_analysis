@@ -44,11 +44,15 @@ While Rice 5kg has the lowest price among the best five products, it is sold in 
 **Promotions application could not attribute to higher sales number:**   
 Promotions were applied in high seasons to engage customers to buy more of the targeted product category and peak sales were expected for the promoted category. Although sales increased during promotional periods, the increase closely followed expected seasonal demand patterns. No additional sales uplift attributable to the promotions was observed, while discounted prices reduced profitability.
 
+![promotions](https://github.com/Vanos008/retail_sales_analysis/blob/9370bad192820fc3159d5cae1892e662070ca944/promotions.jpg)
+
 **Almost all store recorded higher revenue except for north region stores:**  
 Compared to 2024 each store had better revenue except for north region stores, although this region was the best performing in the previous year. 
 Last year, polar market center and northern horizon made $96K and $92K respectively, now polar market center has slightly declined at $92K and northern horizon sales collapsed at $68K. 
 In 2025, east region stores are the top stores with $95K for sunrise retail hub and $90K for coastal trade plaza.  
 Customer count hasn’t really changed over year across stores but we noticed that the average order value has increased for all stores except the north region stores especially for northern horizon store.
+
+
  
 # Recommendations
 - Increase the visibility of high-revenue products through strategic in-store placement to attract customer’s attention.
