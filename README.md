@@ -32,7 +32,7 @@ Revenue in 2025 amounts at $641K with July being the best month at $62K and Apri
 Profit margin is around 50% similar to previous year. And Average Order value increased at $63,80 while last year’s was $60,96.
 High seasons were in January, July and the entire Q4 period and the only low season was in April which shows similar pattern to last year.
 
-![2024 vs 2025]() 
+![2024 vs 2025](https://github.com/Vanos008/retail_sales_analysis/blob/95cfed0ead3e0f27584cfcbc2fda99739cea7938/Assets/2025%20vs%202024%20sales.jpg) 
  
 **High priced electronics products are the primary sales driver:**   
 Laptop, smart TV, Smartphone X, Rice 5Kg and cooking pot set are the products driving revenue trend in overall, these five products account for approximately 58% of total revenue, highlighting the company’s dependence on a relatively small group of high-performing products.
