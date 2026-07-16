@@ -45,7 +45,7 @@ While Rice 5kg has the lowest price among the best five products, it is sold in 
 **Promotions application could not attribute to higher sales number:**   
 Promotions were applied in high seasons to engage customers to buy more of the targeted product category and peak sales were expected for the promoted category. Although sales increased during promotional periods, the increase closely followed expected seasonal demand patterns. No additional sales uplift attributable to the promotions was observed, while discounted prices reduced profitability.
 
- ![promotions]()
+ ![promotions](https://github.com/Vanos008/retail_sales_analysis/blob/9a6b0eb14872a8beb1510132188392ebf771e143/Assets/promotions.jpg)
 
 **Almost all store recorded higher revenue except for north region stores:**  
 Compared to 2024 each store had better revenue except for north region stores, although this region was the best performing in the previous year. 
