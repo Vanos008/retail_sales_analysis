@@ -13,7 +13,7 @@ The company’s main database structure as seen below consists of six tables:
 - regions: region_id, region_name (4 rows)
 - promotions: promotion_id, promotion_name, start_date, end_date, category, discount_percentage (5 rows)
 
-![erd](https://github.com/Vanos008/retail_sales_analysis/blob/440d120310541a7483f638537c2751eb41ae569b/entity%20relationship%20diagram.jpg)
+![erd](https://github.com/Vanos008/retail_sales_analysis/blob/14d42e9152c7a0c1cd4a6516a18627029fa1b83b/Assets/entity%20relationship%20diagram.jpg)
 
 Data quality checks included verifying duplicate transactions, missing values, referential integrity between tables, and consistency of key fields before beginning the analysis.
 
@@ -22,7 +22,7 @@ Total revenue reached $641K, representing a 5% increase compared with 2024. This
 Top 5 products are laptop, smart TV, Smartphone X, Rice 5Kg and cooking pot set, most of them are highly priced products making them the main drivers of our total revenue. We also noticed that promotions did not appear to bring a meaningful increase in sales volume while reducing profit margins.   
 For this year almost all stores got better sales numbers except the north region stores, especially northern horizon store because although customer count did not change much, their average spending has declined.
 
-![dashboard](https://github.com/Vanos008/retail_sales_analysis/blob/b95cbb211132adf9f7425ee00c3dc925a7e3b466/dashboard.jpg)
+![dashboard]()
 
 So, for 2026 it is recommended to bring more awareness to “XYZ market” brand to attract more customers and it is necessary to budget advertisement. Promotion strategy should be shifted to specific products promotions and not by category anymore emphasizing high value products. Finally, we want to run some investigations on the northern horizon store to find out why customers shifted toward lower-priced products.
  
@@ -32,7 +32,7 @@ Revenue in 2025 amounts at $641K with July being the best month at $62K and Apri
 Profit margin is around 50% similar to previous year. And Average Order value increased at $63,80 while last year’s was $60,96.
 High seasons were in January, July and the entire Q4 period and the only low season was in April which shows similar pattern to last year.
 
-![2024 vs 2025](https://github.com/Vanos008/retail_sales_analysis/blob/a3e918f45cc9d661001b380a33544da7fed59a85/2025%20vs%202024%20sales.jpg) 
+![2024 vs 2025]() 
  
 **High priced electronics products are the primary sales driver:**   
 Laptop, smart TV, Smartphone X, Rice 5Kg and cooking pot set are the products driving revenue trend in overall, these five products account for approximately 58% of total revenue, highlighting the company’s dependence on a relatively small group of high-performing products.
@@ -40,12 +40,12 @@ Laptop, smartphone X and smart TV are high-priced products therefore making them
 Cooking pot set is priced moderately and has a moderate sales number however is the highest valued product among the household items category. 
 While Rice 5kg has the lowest price among the best five products, it is sold in high quantity and is the most expensive product in the food section category.
 
-![top 5](https://github.com/Vanos008/retail_sales_analysis/blob/6f5725ec8e269750bf608f90a48dbd385f6fa564/top%205%20products.jpg)
+![top 5]()
 
 **Promotions application could not attribute to higher sales number:**   
 Promotions were applied in high seasons to engage customers to buy more of the targeted product category and peak sales were expected for the promoted category. Although sales increased during promotional periods, the increase closely followed expected seasonal demand patterns. No additional sales uplift attributable to the promotions was observed, while discounted prices reduced profitability.
 
- ![promotions](https://github.com/Vanos008/retail_sales_analysis/blob/9370bad192820fc3159d5cae1892e662070ca944/promotions.jpg)
+ ![promotions]()
 
 **Almost all store recorded higher revenue except for north region stores:**  
 Compared to 2024 each store had better revenue except for north region stores, although this region was the best performing in the previous year. 
@@ -53,7 +53,7 @@ Last year, polar market center and northern horizon made $96K and $92K respectiv
 In 2025, east region stores are the top stores with $95K for sunrise retail hub and $90K for coastal trade plaza.  
 Customer count hasn’t really changed over year across stores but we noticed that the average order value has increased for all stores except the north region stores especially for northern horizon store.
 
- ![store](https://github.com/Vanos008/retail_sales_analysis/blob/ef1ef5e33c669513908f7d85d63002e1e3aa1c24/stores.jpg)
+ ![store]()
  
 # Recommendations
 - Increase the visibility of high-revenue products through strategic in-store placement to attract customer’s attention.
