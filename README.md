@@ -22,7 +22,7 @@ Total revenue reached $641K, representing a 5% increase compared with 2024. This
 Top 5 products are laptop, smart TV, Smartphone X, Rice 5Kg and cooking pot set, most of them are highly priced products making them the main drivers of our total revenue. We also noticed that promotions did not appear to bring a meaningful increase in sales volume while reducing profit margins.   
 For this year almost all stores got better sales numbers except the north region stores, especially northern horizon store because although customer count did not change much, their average spending has declined.
 
-![dashboard]()
+![dashboard](https://github.com/Vanos008/retail_sales_analysis/blob/b40b78a1887bab6a5ca818a700488c1bdd34f5c3/Assets/dashboard.jpg)
 
 So, for 2026 it is recommended to bring more awareness to “XYZ market” brand to attract more customers and it is necessary to budget advertisement. Promotion strategy should be shifted to specific products promotions and not by category anymore emphasizing high value products. Finally, we want to run some investigations on the northern horizon store to find out why customers shifted toward lower-priced products.
  
