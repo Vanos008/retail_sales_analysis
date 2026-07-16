@@ -1,8 +1,8 @@
 # Project background 
 “XYZ market“ is a retail company that started its business in 2024, the company owns 8 stores spread across the country and products are available for in store-purchase only. In the end of 2025, the executive team want to evaluate revenue and profitability for the current year across months, products and stores and to compare the results with the previous year.
 
-The SQL queries used to inspect the data for this analysis can be found here [retail_eda.sql](https://github.com/Vanos008/retail_sales_analysis/blob/8a3b3df01943255c439ceebac35f7b58805b9da5/retail_eda.sql).   
-A Tableau dashboard used to report and explore sales trends can be found here [Retail sales.twb](https://github.com/Vanos008/retail_sales_analysis/blob/57adfd23b3e03d1f5a9dc97b9eb3bac64fd6e002/Retail_sales.twb).
+The SQL queries used to inspect the data for this analysis can be found here [retail_eda.sql](https://github.com/Vanos008/retail_sales_analysis/blob/8a3b3df01943255c439ceebac35f7b58805b9da5/retail_eda.sql)    
+A Tableau dashboard used to report and explore sales trends can be found here [Retail sales.twb](https://github.com/Vanos008/retail_sales_analysis/blob/57adfd23b3e03d1f5a9dc97b9eb3bac64fd6e002/Retail_sales.twb)  
 
 # Data Structure and initial checks
 The company’s main database structure as seen below consists of six tables: 
@@ -13,7 +13,8 @@ The company’s main database structure as seen below consists of six tables:
 - regions: region_id, region_name (4 rows)
 - promotions: promotion_id, promotion_name, start_date, end_date, category, discount_percentage (5 rows)
 
- ![erd](https://github.com/Vanos008/retail_sales_analysis/blob/440d120310541a7483f638537c2751eb41ae569b/entity%20relationship%20diagram.jpg)  
+![erd](https://github.com/Vanos008/retail_sales_analysis/blob/440d120310541a7483f638537c2751eb41ae569b/entity%20relationship%20diagram.jpg)
+
 Data quality checks included verifying duplicate transactions, missing values, referential integrity between tables, and consistency of key fields before beginning the analysis.
 
 # Executive summary
@@ -31,7 +32,7 @@ Revenue in 2025 amounts at $641K with July being the best month at $62K and Apri
 Profit margin is around 50% similar to previous year. And Average Order value increased at $63,80 while last year’s was $60,96.
 High seasons were in January, July and the entire Q4 period and the only low season was in April which shows similar pattern to last year.
 
-![2024 vs 2025](https://github.com/Vanos008/retail_sales_analysis/blob/a3e918f45cc9d661001b380a33544da7fed59a85/2025%20vs%202024%20sales.jpg)
+![2024 vs 2025](https://github.com/Vanos008/retail_sales_analysis/blob/a3e918f45cc9d661001b380a33544da7fed59a85/2025%20vs%202024%20sales.jpg) 
  
 **High priced electronics products are the primary sales driver:**   
 Laptop, smart TV, Smartphone X, Rice 5Kg and cooking pot set are the products driving revenue trend in overall, these five products account for approximately 58% of total revenue, highlighting the company’s dependence on a relatively small group of high-performing products.
@@ -44,7 +45,7 @@ While Rice 5kg has the lowest price among the best five products, it is sold in 
 **Promotions application could not attribute to higher sales number:**   
 Promotions were applied in high seasons to engage customers to buy more of the targeted product category and peak sales were expected for the promoted category. Although sales increased during promotional periods, the increase closely followed expected seasonal demand patterns. No additional sales uplift attributable to the promotions was observed, while discounted prices reduced profitability.
 
-![promotions](https://github.com/Vanos008/retail_sales_analysis/blob/9370bad192820fc3159d5cae1892e662070ca944/promotions.jpg)
+ ![promotions](https://github.com/Vanos008/retail_sales_analysis/blob/9370bad192820fc3159d5cae1892e662070ca944/promotions.jpg)
 
 **Almost all store recorded higher revenue except for north region stores:**  
 Compared to 2024 each store had better revenue except for north region stores, although this region was the best performing in the previous year. 
@@ -52,7 +53,7 @@ Last year, polar market center and northern horizon made $96K and $92K respectiv
 In 2025, east region stores are the top stores with $95K for sunrise retail hub and $90K for coastal trade plaza.  
 Customer count hasn’t really changed over year across stores but we noticed that the average order value has increased for all stores except the north region stores especially for northern horizon store.
 
-
+ ![store](https://github.com/Vanos008/retail_sales_analysis/blob/ef1ef5e33c669513908f7d85d63002e1e3aa1c24/stores.jpg)
  
 # Recommendations
 - Increase the visibility of high-revenue products through strategic in-store placement to attract customer’s attention.
