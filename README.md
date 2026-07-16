@@ -12,7 +12,8 @@ The company’s main database structure as seen below consists of six tables:
 - stores: store_id, store_name, region_id, opening_date (8 rows)
 - regions: region_id, region_name (4 rows)
 - promotions: promotion_id, promotion_name, start_date, end_date, category, discount_percentage (5 rows)
- 
+
+ ![erd](https://github.com/Vanos008/retail_sales_analysis/blob/440d120310541a7483f638537c2751eb41ae569b/entity%20relationship%20diagram.jpg)  
 Data quality checks included verifying duplicate transactions, missing values, referential integrity between tables, and consistency of key fields before beginning the analysis.
 
 # Executive summary
