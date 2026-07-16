@@ -53,7 +53,7 @@ Last year, polar market center and northern horizon made $96K and $92K respectiv
 In 2025, east region stores are the top stores with $95K for sunrise retail hub and $90K for coastal trade plaza.  
 Customer count hasn’t really changed over year across stores but we noticed that the average order value has increased for all stores except the north region stores especially for northern horizon store.
 
- ![store]()
+ ![store](https://github.com/Vanos008/retail_sales_analysis/blob/ecb2690249034169198d059d23538b7e9454505a/Assets/stores.jpg)
  
 # Recommendations
 - Increase the visibility of high-revenue products through strategic in-store placement to attract customer’s attention.
