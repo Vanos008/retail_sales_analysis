@@ -1,7 +1,7 @@
 Project background 
 “XYZ market “is a retail company that started its business in 2024, the company owns 8 stores spread across the country and products are available for in store-purchase only. In the end of 2025, the executive team want to evaluate revenue and profitability for the current year across months, products and stores and to compare the results with the previous year.
-The SQL queries used to inspect the data for this analysis can be found here [link text]().
-A Tableau dashboard used to report and explore sales trends can be found here (link).
+The SQL queries used to inspect the data for this analysis can be found here [link text](https://github.com/Vanos008/retail_sales_analysis/blob/8a3b3df01943255c439ceebac35f7b58805b9da5/retail_eda.sql).
+A Tableau dashboard used to report and explore sales trends can be found here [link text]().
 Data Structure and initial checks
 The company’s main database structure as seen below consists of six tables: 
 sales: transaction_id, transaction_datetime, customer_id, store_id, product_id, promotion_id, quantity, selling_price, total_revenue, total_cost and profit (20000 rows)
